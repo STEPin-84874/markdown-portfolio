@@ -10,13 +10,10 @@ layout: default
 
 <br>
 
+{% include 03-list.md %}
 <br>
 
-- Item 1
-- Item 2
-- Item 3
-   1. Item 3a
-   2. Item 3b
+- item
 
 <br>
 
