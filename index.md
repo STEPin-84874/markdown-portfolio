@@ -10,5 +10,11 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+{% include 03-list.md %}
+<br>
 
+- item
+
+<br>
+
+{% include 05-emphasis.md %}
